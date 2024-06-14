@@ -49,4 +49,7 @@ function stop() {
     document.getElementById('result').innerText = "Bedankt voor het gebruiken.";
     document.getElementById('search-section').style.display = 'none';
     document.getElementById('stop-button').style.display = 'none';
+    let numbers[] = 0;
+    var input = 0;
+    
 }
